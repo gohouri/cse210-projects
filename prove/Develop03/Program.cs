@@ -128,8 +128,8 @@ class Program
     static void Main(string[] args)
     {
         // Initialize the reference and scripture
-        Reference reference = new Reference("John", 3, 16);
-        Scripture scripture = new Scripture(reference, "For God so loved the world that He gave His one and only Son.");
+        Reference reference = new Reference("2 Nephi", 25, 25, 26);
+        Scripture scripture = new Scripture(reference, "For, for this end was the law given; wherefore the law hath become dead unto us, and we are made alive in Christ because of our faith; yet we keep the law because of the commandments. And we talk of Christ, we rejoice in Christ, we preach of Christ, we prophesy of Christ, and we write according to our prophecies, that our children may know to what source they may look for a remission of their sins.");
 
         while (true)
         {
